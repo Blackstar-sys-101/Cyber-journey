@@ -1,5 +1,0 @@
-cd ~/cyber-journey
-source venv/bin/activate
-cd playground
-echo "🐍 Cyber Journey activated!"
-echo "📁 Now in: $(pwd)"
